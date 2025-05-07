@@ -334,3 +334,4 @@
 [2025-05-07] docs: revise README sections
 [2025-05-07] fix: correct file references
 [2025-05-07] chore: sync project dependencies
+[2025-05-07] refactor: simplify logic flow
