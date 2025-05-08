@@ -340,3 +340,4 @@
 [2025-05-07] style: improve code readability
 [2025-05-08] feat: improve automation workflow
 [2025-05-08] fix: patch edge case handling
+[2025-05-08] docs: add inline comments for clarity
