@@ -362,3 +362,4 @@
 [2025-05-10] feat: enhance project setup scripts
 [2025-05-10] chore: sync project dependencies
 [2025-05-10] fix: correct file references
+[2025-05-10] refactor: modularize components
