@@ -403,3 +403,4 @@
 [2025-05-13] refactor: clean up project structure
 [2025-05-13] feat: add utility helper functions
 [2025-05-13] refactor: simplify logic flow
+[2025-05-13] refactor: modularize components
