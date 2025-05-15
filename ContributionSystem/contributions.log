@@ -418,3 +418,4 @@
 [2025-05-15] docs: expand usage instructions
 [2025-05-15] fix: correct file references
 [2025-05-15] chore: sync project dependencies
+[2025-05-15] refactor: clean up project structure
