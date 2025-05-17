@@ -442,3 +442,4 @@
 [2025-05-16] fix: correct file references
 [2025-05-17] chore: organize configuration files
 [2025-05-17] refactor: modularize components
+[2025-05-17] refactor: simplify logic flow
