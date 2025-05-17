@@ -443,3 +443,4 @@
 [2025-05-17] chore: organize configuration files
 [2025-05-17] refactor: modularize components
 [2025-05-17] refactor: simplify logic flow
+[2025-05-17] docs: add inline comments for clarity
