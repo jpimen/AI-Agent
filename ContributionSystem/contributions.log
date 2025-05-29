@@ -597,3 +597,4 @@
 [2025-05-29] style: improve code readability
 [2025-05-29] style: normalize whitespace and formatting
 [2025-05-29] docs: expand usage instructions
+[2025-05-29] fix: patch edge case handling
