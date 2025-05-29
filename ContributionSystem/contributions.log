@@ -593,3 +593,4 @@
 [2025-05-29] chore: organize configuration files
 [2025-05-29] fix: resolve minor formatting issues
 [2025-05-29] style: normalize whitespace and formatting
+[2025-05-29] feat: add utility helper functions
