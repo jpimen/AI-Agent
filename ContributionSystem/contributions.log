@@ -610,3 +610,4 @@
 [2025-05-30] style: normalize whitespace and formatting
 [2025-05-30] fix: patch edge case handling
 [2025-05-30] fix: patch edge case handling
+[2025-05-30] feat: add utility helper functions
