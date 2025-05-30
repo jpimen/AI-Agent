@@ -599,3 +599,4 @@
 [2025-05-29] docs: expand usage instructions
 [2025-05-29] fix: patch edge case handling
 [2025-05-30] refactor: clean up project structure
+[2025-05-30] refactor: modularize components
