@@ -666,3 +666,4 @@
 [2025-06-04] fix: resolve minor formatting issues
 [2025-06-04] feat: add utility helper functions
 [2025-06-04] fix: correct file references
+[2025-06-04] refactor: simplify logic flow
