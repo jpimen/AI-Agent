@@ -760,3 +760,4 @@
 [2025-06-11] style: normalize whitespace and formatting
 [2025-06-11] chore: organize configuration files
 [2025-06-11] docs: expand usage instructions
+[2025-06-11] refactor: simplify logic flow
