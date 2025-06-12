@@ -776,3 +776,4 @@
 [2025-06-12] chore: organize configuration files
 [2025-06-12] chore: sync project dependencies
 [2025-06-12] feat: add utility helper functions
+[2025-06-12] fix: correct file references
