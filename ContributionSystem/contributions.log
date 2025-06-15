@@ -805,3 +805,4 @@
 [2025-06-15] fix: resolve minor formatting issues
 [2025-06-15] refactor: modularize components
 [2025-06-15] docs: add inline comments for clarity
+[2025-06-15] refactor: simplify logic flow
