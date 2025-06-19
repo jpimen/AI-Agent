@@ -860,3 +860,4 @@
 [2025-06-19] style: normalize whitespace and formatting
 [2025-06-19] fix: patch edge case handling
 [2025-06-19] chore: organize configuration files
+[2025-06-19] feat: add utility helper functions
