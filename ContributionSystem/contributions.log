@@ -887,3 +887,4 @@
 [2025-06-21] style: improve code readability
 [2025-06-21] chore: routine maintenance update
 [2025-06-21] refactor: simplify logic flow
+[2025-06-21] fix: patch edge case handling
