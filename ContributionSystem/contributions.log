@@ -914,3 +914,4 @@
 [2025-06-24] feat: improve automation workflow
 [2025-06-24] fix: patch edge case handling
 [2025-06-24] feat: add development notes
+[2025-06-24] feat: add utility helper functions
