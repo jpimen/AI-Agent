@@ -931,3 +931,4 @@
 [2025-06-25] docs: revise README sections
 [2025-06-25] refactor: simplify logic flow
 [2025-06-25] feat: enhance project setup scripts
+[2025-06-25] refactor: modularize components
