@@ -942,3 +942,4 @@
 [2025-06-26] docs: revise README sections
 [2025-06-26] fix: patch edge case handling
 [2025-06-26] style: normalize whitespace and formatting
+[2025-06-26] style: improve code readability
