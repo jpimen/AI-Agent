@@ -940,3 +940,4 @@
 [2025-06-26] fix: resolve minor formatting issues
 [2025-06-26] feat: add utility helper functions
 [2025-06-26] docs: revise README sections
+[2025-06-26] fix: patch edge case handling
