@@ -94,3 +94,4 @@
 [2025-06-29] refactor: clean up project structure
 [2025-06-30] docs: update documentation notes
 [2025-07-01] chore: organize configuration files
+[2025-07-02] feat: add utility helper functions
