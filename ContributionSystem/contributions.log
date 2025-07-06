@@ -1062,3 +1062,4 @@
 [2025-07-06] fix: correct file references
 [2025-07-06] fix: patch edge case handling
 [2025-07-06] fix: resolve minor formatting issues
+[2025-07-06] refactor: simplify logic flow
