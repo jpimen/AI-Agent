@@ -1094,3 +1094,4 @@
 [2025-07-09] fix: resolve minor formatting issues
 [2025-07-09] docs: revise README sections
 [2025-07-09] chore: sync project dependencies
+[2025-07-09] feat: add utility helper functions
