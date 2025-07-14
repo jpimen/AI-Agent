@@ -1165,3 +1165,4 @@
 [2025-07-14] fix: resolve minor formatting issues
 [2025-07-14] refactor: modularize components
 [2025-07-14] chore: update project metadata
+[2025-07-14] feat: add utility helper functions
