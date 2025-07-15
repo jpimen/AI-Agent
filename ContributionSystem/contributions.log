@@ -1173,3 +1173,4 @@
 [2025-07-15] style: improve code readability
 [2025-07-15] docs: revise README sections
 [2025-07-15] style: normalize whitespace and formatting
+[2025-07-15] refactor: modularize components
