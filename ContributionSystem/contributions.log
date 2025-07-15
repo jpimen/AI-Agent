@@ -1169,3 +1169,4 @@
 [2025-07-14] refactor: simplify logic flow
 [2025-07-15] fix: correct file references
 [2025-07-15] refactor: clean up project structure
+[2025-07-15] feat: add utility helper functions
