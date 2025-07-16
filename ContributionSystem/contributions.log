@@ -1183,3 +1183,4 @@
 [2025-07-16] refactor: clean up project structure
 [2025-07-16] docs: revise README sections
 [2025-07-16] feat: improve automation workflow
+[2025-07-16] fix: patch edge case handling
