@@ -1222,3 +1222,4 @@
 [2025-07-19] style: improve code readability
 [2025-07-19] fix: patch edge case handling
 [2025-07-19] chore: update project metadata
+[2025-07-19] refactor: clean up project structure
