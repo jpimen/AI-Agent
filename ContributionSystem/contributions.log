@@ -1265,3 +1265,4 @@
 [2025-07-22] refactor: modularize components
 [2025-07-22] docs: expand usage instructions
 [2025-07-22] docs: update documentation notes
+[2025-07-22] fix: patch edge case handling
