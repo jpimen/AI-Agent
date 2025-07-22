@@ -1266,3 +1266,4 @@
 [2025-07-22] docs: expand usage instructions
 [2025-07-22] docs: update documentation notes
 [2025-07-22] fix: patch edge case handling
+[2025-07-22] feat: add utility helper functions
