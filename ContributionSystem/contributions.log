@@ -1273,3 +1273,4 @@
 [2025-07-23] chore: organize configuration files
 [2025-07-23] docs: expand usage instructions
 [2025-07-23] refactor: modularize components
+[2025-07-23] feat: add utility helper functions
