@@ -1318,3 +1318,4 @@
 [2025-07-26] fix: resolve minor formatting issues
 [2025-07-26] chore: routine maintenance update
 [2025-07-26] docs: add inline comments for clarity
+[2025-07-26] feat: add utility helper functions
