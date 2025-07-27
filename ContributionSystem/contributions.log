@@ -1329,3 +1329,4 @@
 [2025-07-27] fix: correct file references
 [2025-07-27] fix: resolve minor formatting issues
 [2025-07-27] chore: sync project dependencies
+[2025-07-27] refactor: clean up project structure
