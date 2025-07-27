@@ -1333,3 +1333,4 @@
 [2025-07-27] feat: add development notes
 [2025-07-27] docs: expand usage instructions
 [2025-07-27] fix: resolve minor formatting issues
+[2025-07-27] fix: patch edge case handling
