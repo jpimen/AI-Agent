@@ -1382,3 +1382,4 @@
 [2025-07-31] fix: patch edge case handling
 [2025-07-31] docs: add inline comments for clarity
 [2025-07-31] docs: revise README sections
+[2025-07-31] feat: enhance project setup scripts
