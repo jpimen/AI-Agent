@@ -1384,3 +1384,4 @@
 [2025-07-31] docs: revise README sections
 [2025-07-31] feat: enhance project setup scripts
 [2025-07-31] fix: correct file references
+[2025-07-31] feat: add utility helper functions
