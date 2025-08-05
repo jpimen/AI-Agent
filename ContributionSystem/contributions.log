@@ -1445,3 +1445,4 @@
 [2025-08-05] fix: resolve minor formatting issues
 [2025-08-05] chore: organize configuration files
 [2025-08-05] chore: update project metadata
+[2025-08-05] refactor: clean up project structure
