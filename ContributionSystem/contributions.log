@@ -1458,3 +1458,4 @@
 [2025-08-06] refactor: modularize components
 [2025-08-06] fix: resolve minor formatting issues
 [2025-08-06] docs: revise README sections
+[2025-08-06] feat: add utility helper functions
