@@ -1452,3 +1452,4 @@
 [2025-08-05] fix: resolve minor formatting issues
 [2025-08-06] fix: correct file references
 [2025-08-06] feat: enhance project setup scripts
+[2025-08-06] refactor: clean up project structure
