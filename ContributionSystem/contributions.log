@@ -1467,3 +1467,4 @@
 [2025-08-07] docs: expand usage instructions
 [2025-08-07] chore: organize configuration files
 [2025-08-07] style: normalize whitespace and formatting
+[2025-08-07] feat: add utility helper functions
