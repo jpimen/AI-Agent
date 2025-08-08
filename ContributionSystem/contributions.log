@@ -1484,3 +1484,4 @@
 [2025-08-08] style: normalize whitespace and formatting
 [2025-08-08] refactor: clean up project structure
 [2025-08-08] docs: expand usage instructions
+[2025-08-08] feat: add utility helper functions
