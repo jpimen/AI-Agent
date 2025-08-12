@@ -1534,3 +1534,4 @@
 [2025-08-12] docs: revise README sections
 [2025-08-12] docs: add inline comments for clarity
 [2025-08-12] chore: sync project dependencies
+[2025-08-12] refactor: simplify logic flow
