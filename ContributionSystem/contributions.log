@@ -1523,3 +1523,4 @@
 [2025-08-11] fix: correct file references
 [2025-08-11] fix: patch edge case handling
 [2025-08-11] fix: patch edge case handling
+[2025-08-12] feat: add utility helper functions
