@@ -1525,3 +1525,4 @@
 [2025-08-11] fix: patch edge case handling
 [2025-08-12] feat: add utility helper functions
 [2025-08-12] refactor: simplify logic flow
+[2025-08-12] docs: expand usage instructions
