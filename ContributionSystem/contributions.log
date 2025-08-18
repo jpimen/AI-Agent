@@ -1611,3 +1611,4 @@
 [2025-08-18] chore: sync project dependencies
 [2025-08-18] docs: expand usage instructions
 [2025-08-18] feat: add development notes
+[2025-08-18] fix: patch edge case handling
