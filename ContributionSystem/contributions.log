@@ -1647,3 +1647,4 @@
 [2025-08-20] chore: organize configuration files
 [2025-08-21] style: normalize whitespace and formatting
 [2025-08-21] fix: patch edge case handling
+[2025-08-21] feat: enhance project setup scripts
