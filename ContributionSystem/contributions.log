@@ -1654,3 +1654,4 @@
 [2025-08-21] docs: add inline comments for clarity
 [2025-08-21] feat: add development notes
 [2025-08-21] fix: patch edge case handling
+[2025-08-21] chore: organize configuration files
