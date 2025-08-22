@@ -1657,3 +1657,4 @@
 [2025-08-21] chore: organize configuration files
 [2025-08-21] fix: correct file references
 [2025-08-22] refactor: simplify logic flow
+[2025-08-22] style: improve code readability
