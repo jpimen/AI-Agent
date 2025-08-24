@@ -1681,3 +1681,4 @@
 [2025-08-23] feat: add utility helper functions
 [2025-08-23] chore: sync project dependencies
 [2025-08-24] docs: expand usage instructions
+[2025-08-24] refactor: modularize components
