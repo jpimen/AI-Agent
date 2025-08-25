@@ -1701,3 +1701,4 @@
 [2025-08-25] refactor: modularize components
 [2025-08-25] fix: resolve minor formatting issues
 [2025-08-25] chore: sync project dependencies
+[2025-08-25] refactor: clean up project structure
