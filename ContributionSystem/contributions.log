@@ -1700,3 +1700,4 @@
 [2025-08-25] feat: add utility helper functions
 [2025-08-25] refactor: modularize components
 [2025-08-25] fix: resolve minor formatting issues
+[2025-08-25] chore: sync project dependencies
