@@ -1765,3 +1765,4 @@
 [2025-08-30] fix: patch edge case handling
 [2025-08-30] fix: resolve minor formatting issues
 [2025-08-30] chore: sync project dependencies
+[2025-08-30] fix: correct file references
