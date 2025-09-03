@@ -1806,3 +1806,4 @@
 [2025-09-03] docs: expand usage instructions
 [2025-09-03] feat: add development notes
 [2025-09-03] chore: sync project dependencies
+[2025-09-03] refactor: clean up project structure
