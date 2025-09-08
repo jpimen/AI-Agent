@@ -1860,3 +1860,4 @@
 [2025-09-07] fix: correct file references
 [2025-09-07] chore: organize configuration files
 [2025-09-07] style: normalize whitespace and formatting
+[2025-09-08] refactor: clean up project structure
