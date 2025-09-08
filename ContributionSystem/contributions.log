@@ -1868,3 +1868,4 @@
 [2025-09-08] fix: correct file references
 [2025-09-08] refactor: simplify logic flow
 [2025-09-08] docs: revise README sections
+[2025-09-08] style: improve code readability
