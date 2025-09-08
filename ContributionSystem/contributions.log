@@ -1866,3 +1866,4 @@
 [2025-09-08] docs: add inline comments for clarity
 [2025-09-08] chore: sync project dependencies
 [2025-09-08] fix: correct file references
+[2025-09-08] refactor: simplify logic flow
