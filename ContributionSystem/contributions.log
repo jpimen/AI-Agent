@@ -1896,3 +1896,4 @@
 [2025-09-10] docs: expand usage instructions
 [2025-09-10] fix: correct file references
 [2025-09-10] chore: routine maintenance update
+[2025-09-11] refactor: modularize components
