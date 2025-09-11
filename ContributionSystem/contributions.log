@@ -1901,3 +1901,4 @@
 [2025-09-11] fix: patch edge case handling
 [2025-09-11] feat: add development notes
 [2025-09-11] feat: improve automation workflow
+[2025-09-11] refactor: clean up project structure
