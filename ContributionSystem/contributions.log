@@ -1940,3 +1940,4 @@
 [2025-09-14] style: normalize whitespace and formatting
 [2025-09-14] style: normalize whitespace and formatting
 [2025-09-14] docs: expand usage instructions
+[2025-09-14] fix: patch edge case handling
