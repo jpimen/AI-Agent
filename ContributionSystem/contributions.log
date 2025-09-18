@@ -1990,3 +1990,4 @@
 [2025-09-18] feat: add utility helper functions
 [2025-09-18] fix: correct file references
 [2025-09-18] chore: update project metadata
+[2025-09-18] refactor: clean up project structure
