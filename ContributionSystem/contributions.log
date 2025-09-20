@@ -2010,3 +2010,4 @@
 [2025-09-19] refactor: clean up project structure
 [2025-09-19] fix: patch edge case handling
 [2025-09-20] refactor: modularize components
+[2025-09-20] feat: add development notes
