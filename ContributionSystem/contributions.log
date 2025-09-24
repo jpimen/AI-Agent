@@ -2061,3 +2061,4 @@
 [2025-09-23] refactor: simplify logic flow
 [2025-09-24] refactor: clean up project structure
 [2025-09-24] refactor: modularize components
+[2025-09-24] docs: add inline comments for clarity
