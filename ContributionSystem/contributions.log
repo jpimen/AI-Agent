@@ -2080,3 +2080,4 @@
 [2025-09-25] docs: add inline comments for clarity
 [2025-09-25] style: improve code readability
 [2025-09-25] chore: organize configuration files
+[2025-09-25] refactor: clean up project structure
