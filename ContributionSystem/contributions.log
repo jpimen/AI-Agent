@@ -2076,3 +2076,4 @@
 [2025-09-24] docs: revise README sections
 [2025-09-25] refactor: modularize components
 [2025-09-25] chore: update project metadata
+[2025-09-25] feat: add utility helper functions
