@@ -2086,3 +2086,4 @@
 [2025-09-25] docs: expand usage instructions
 [2025-09-25] docs: add inline comments for clarity
 [2025-09-26] chore: update project metadata
+[2025-09-26] fix: patch edge case handling
