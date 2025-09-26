@@ -2097,3 +2097,4 @@
 [2025-09-26] fix: patch edge case handling
 [2025-09-26] feat: add utility helper functions
 [2025-09-26] docs: revise README sections
+[2025-09-26] chore: sync project dependencies
