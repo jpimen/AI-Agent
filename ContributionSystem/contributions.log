@@ -2121,3 +2121,4 @@
 [2025-09-28] feat: improve automation workflow
 [2025-09-28] fix: patch edge case handling
 [2025-09-28] feat: add utility helper functions
+[2025-09-28] refactor: clean up project structure
