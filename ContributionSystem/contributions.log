@@ -2186,3 +2186,4 @@
 [2025-10-03] fix: correct file references
 [2025-10-03] refactor: modularize components
 [2025-10-03] chore: update project metadata
+[2025-10-04] feat: add utility helper functions
