@@ -189,3 +189,4 @@
 [2025-10-02] fix: patch edge case handling
 [2025-10-03] docs: expand usage instructions
 [2025-10-04] refactor: modularize components
+[2025-10-05] chore: sync project dependencies
