@@ -2222,3 +2222,4 @@
 [2025-10-06] fix: patch edge case handling
 [2025-10-06] docs: expand usage instructions
 [2025-10-06] fix: resolve minor formatting issues
+[2025-10-06] chore: sync project dependencies
