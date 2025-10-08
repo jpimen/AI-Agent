@@ -2241,3 +2241,4 @@
 [2025-10-07] fix: patch edge case handling
 [2025-10-08] feat: add utility helper functions
 [2025-10-08] docs: revise README sections
+[2025-10-08] fix: resolve minor formatting issues
