@@ -2252,3 +2252,4 @@
 [2025-10-08] docs: update documentation notes
 [2025-10-08] chore: sync project dependencies
 [2025-10-09] refactor: simplify logic flow
+[2025-10-09] feat: add utility helper functions
