@@ -2296,3 +2296,4 @@
 [2025-10-12] refactor: clean up project structure
 [2025-10-12] refactor: simplify logic flow
 [2025-10-12] style: normalize whitespace and formatting
+[2025-10-12] feat: add utility helper functions
