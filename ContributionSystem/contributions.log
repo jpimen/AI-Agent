@@ -2304,3 +2304,4 @@
 [2025-10-12] feat: add utility helper functions
 [2025-10-12] fix: resolve minor formatting issues
 [2025-10-13] style: improve code readability
+[2025-10-13] refactor: clean up project structure
