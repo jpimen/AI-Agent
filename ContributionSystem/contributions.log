@@ -2306,3 +2306,4 @@
 [2025-10-13] style: improve code readability
 [2025-10-13] refactor: clean up project structure
 [2025-10-13] refactor: modularize components
+[2025-10-13] docs: add inline comments for clarity
