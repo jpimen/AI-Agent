@@ -199,3 +199,4 @@
 [2025-10-12] style: improve code readability
 [2025-10-13] docs: add inline comments for clarity
 [2025-10-14] chore: update project metadata
+[2025-10-15] refactor: simplify logic flow
