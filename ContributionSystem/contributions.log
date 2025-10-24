@@ -208,3 +208,4 @@
 [2025-10-21] feat: add development notes
 [2025-10-22] fix: patch edge case handling
 [2025-10-23] docs: expand usage instructions
+[2025-10-24] refactor: modularize components
