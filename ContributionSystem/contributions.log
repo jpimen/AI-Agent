@@ -2476,3 +2476,4 @@
 [2025-10-26] feat: enhance project setup scripts
 [2025-10-26] fix: patch edge case handling
 [2025-10-26] chore: organize configuration files
+[2025-10-26] refactor: clean up project structure
