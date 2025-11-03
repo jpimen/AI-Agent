@@ -2564,3 +2564,4 @@
 [2025-11-02] chore: organize configuration files
 [2025-11-02] chore: sync project dependencies
 [2025-11-03] refactor: clean up project structure
+[2025-11-03] feat: add utility helper functions
