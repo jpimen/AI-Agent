@@ -2586,3 +2586,4 @@
 [2025-11-04] docs: add inline comments for clarity
 [2025-11-05] refactor: modularize components
 [2025-11-05] chore: update project metadata
+[2025-11-05] refactor: simplify logic flow
