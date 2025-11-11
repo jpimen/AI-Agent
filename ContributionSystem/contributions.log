@@ -2671,3 +2671,4 @@
 [2025-11-11] chore: organize configuration files
 [2025-11-11] refactor: clean up project structure
 [2025-11-11] chore: update project metadata
+[2025-11-11] refactor: modularize components
