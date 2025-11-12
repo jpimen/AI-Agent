@@ -2684,3 +2684,4 @@
 [2025-11-12] style: normalize whitespace and formatting
 [2025-11-12] style: normalize whitespace and formatting
 [2025-11-12] fix: correct file references
+[2025-11-12] refactor: modularize components
