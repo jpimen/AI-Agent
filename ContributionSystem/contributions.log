@@ -2690,3 +2690,4 @@
 [2025-11-12] docs: expand usage instructions
 [2025-11-12] feat: add utility helper functions
 [2025-11-13] fix: patch edge case handling
+[2025-11-13] refactor: modularize components
