@@ -2709,3 +2709,4 @@
 [2025-11-14] refactor: clean up project structure
 [2025-11-14] chore: sync project dependencies
 [2025-11-14] style: normalize whitespace and formatting
+[2025-11-14] feat: add utility helper functions
