@@ -2730,3 +2730,4 @@
 [2025-11-16] docs: add inline comments for clarity
 [2025-11-16] style: improve code readability
 [2025-11-16] fix: resolve minor formatting issues
+[2025-11-16] refactor: simplify logic flow
