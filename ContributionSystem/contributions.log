@@ -2731,3 +2731,4 @@
 [2025-11-16] style: improve code readability
 [2025-11-16] fix: resolve minor formatting issues
 [2025-11-16] refactor: simplify logic flow
+[2025-11-16] feat: add utility helper functions
