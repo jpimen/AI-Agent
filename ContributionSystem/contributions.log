@@ -2747,3 +2747,4 @@
 [2025-11-17] fix: patch edge case handling
 [2025-11-17] style: normalize whitespace and formatting
 [2025-11-17] feat: improve automation workflow
+[2025-11-17] fix: correct file references
