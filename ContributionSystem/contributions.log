@@ -2846,3 +2846,4 @@
 [2025-11-25] refactor: simplify logic flow
 [2025-11-25] docs: revise README sections
 [2025-11-25] style: normalize whitespace and formatting
+[2025-11-25] refactor: modularize components
