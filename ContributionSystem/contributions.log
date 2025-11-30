@@ -2908,3 +2908,4 @@
 [2025-11-30] fix: patch edge case handling
 [2025-11-30] style: improve code readability
 [2025-11-30] docs: revise README sections
+[2025-11-30] chore: sync project dependencies
