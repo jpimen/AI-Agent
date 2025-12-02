@@ -2931,3 +2931,4 @@
 [2025-12-02] refactor: modularize components
 [2025-12-02] style: improve code readability
 [2025-12-02] fix: correct file references
+[2025-12-02] docs: add inline comments for clarity
