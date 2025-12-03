@@ -2941,3 +2941,4 @@
 [2025-12-03] chore: sync project dependencies
 [2025-12-03] chore: sync project dependencies
 [2025-12-03] docs: revise README sections
+[2025-12-03] fix: patch edge case handling
