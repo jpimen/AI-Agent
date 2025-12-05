@@ -2961,3 +2961,4 @@
 [2025-12-04] style: improve code readability
 [2025-12-04] docs: expand usage instructions
 [2025-12-05] style: improve code readability
+[2025-12-05] fix: patch edge case handling
