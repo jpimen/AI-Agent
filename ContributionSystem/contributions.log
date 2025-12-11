@@ -3033,3 +3033,4 @@
 [2025-12-10] fix: resolve minor formatting issues
 [2025-12-10] style: improve code readability
 [2025-12-10] docs: add inline comments for clarity
+[2025-12-11] refactor: simplify logic flow
