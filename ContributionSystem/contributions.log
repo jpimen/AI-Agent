@@ -3143,3 +3143,4 @@
 [2025-12-18] docs: expand usage instructions
 [2025-12-18] feat: improve automation workflow
 [2025-12-19] fix: correct file references
+[2025-12-19] fix: patch edge case handling
