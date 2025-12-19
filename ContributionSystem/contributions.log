@@ -3145,3 +3145,4 @@
 [2025-12-19] fix: correct file references
 [2025-12-19] fix: patch edge case handling
 [2025-12-19] feat: enhance project setup scripts
+[2025-12-19] chore: organize configuration files
