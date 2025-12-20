@@ -3163,3 +3163,4 @@
 [2025-12-20] style: normalize whitespace and formatting
 [2025-12-20] docs: add inline comments for clarity
 [2025-12-20] fix: correct file references
+[2025-12-20] refactor: modularize components
