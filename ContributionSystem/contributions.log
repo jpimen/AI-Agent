@@ -3222,3 +3222,4 @@
 [2025-12-25] docs: revise README sections
 [2025-12-25] fix: patch edge case handling
 [2025-12-25] docs: add inline comments for clarity
+[2025-12-25] style: normalize whitespace and formatting
