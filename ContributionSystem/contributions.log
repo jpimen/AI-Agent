@@ -3406,3 +3406,4 @@
 [2026-01-09] style: improve code readability
 [2026-01-09] docs: add inline comments for clarity
 [2026-01-09] docs: expand usage instructions
+[2026-01-09] refactor: simplify logic flow
