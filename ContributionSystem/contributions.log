@@ -3419,3 +3419,4 @@
 [2026-01-10] fix: patch edge case handling
 [2026-01-10] docs: expand usage instructions
 [2026-01-10] feat: add utility helper functions
+[2026-01-10] refactor: clean up project structure
