@@ -3427,3 +3427,4 @@
 [2026-01-11] refactor: clean up project structure
 [2026-01-11] style: normalize whitespace and formatting
 [2026-01-11] style: improve code readability
+[2026-01-11] refactor: simplify logic flow
