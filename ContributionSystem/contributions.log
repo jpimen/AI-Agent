@@ -3493,3 +3493,4 @@
 [2026-01-17] refactor: simplify logic flow
 [2026-01-17] refactor: clean up project structure
 [2026-01-17] fix: patch edge case handling
+[2026-01-17] fix: correct file references
