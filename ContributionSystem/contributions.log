@@ -3510,3 +3510,4 @@
 [2026-01-18] docs: add inline comments for clarity
 [2026-01-18] style: normalize whitespace and formatting
 [2026-01-18] docs: expand usage instructions
+[2026-01-18] refactor: modularize components
