@@ -3526,3 +3526,4 @@
 [2026-01-19] chore: update project metadata
 [2026-01-19] docs: revise README sections
 [2026-01-19] fix: resolve minor formatting issues
+[2026-01-19] fix: patch edge case handling
