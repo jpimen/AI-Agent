@@ -296,3 +296,4 @@
 [2026-01-17] refactor: modularize components
 [2026-01-18] chore: sync project dependencies
 [2026-01-19] feat: improve automation workflow
+[2026-01-20] refactor: clean up project structure
