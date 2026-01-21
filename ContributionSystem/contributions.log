@@ -3547,3 +3547,4 @@
 [2026-01-21] fix: correct file references
 [2026-01-21] docs: expand usage instructions
 [2026-01-21] docs: revise README sections
+[2026-01-21] feat: add utility helper functions
