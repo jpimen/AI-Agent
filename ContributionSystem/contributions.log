@@ -3572,3 +3572,4 @@
 [2026-01-22] feat: enhance project setup scripts
 [2026-01-23] feat: improve automation workflow
 [2026-01-23] fix: patch edge case handling
+[2026-01-23] refactor: clean up project structure
