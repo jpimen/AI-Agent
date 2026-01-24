@@ -3588,3 +3588,4 @@
 [2026-01-24] fix: resolve minor formatting issues
 [2026-01-24] docs: update documentation notes
 [2026-01-24] docs: expand usage instructions
+[2026-01-24] fix: patch edge case handling
