@@ -3594,3 +3594,4 @@
 [2026-01-24] fix: patch edge case handling
 [2026-01-25] feat: improve automation workflow
 [2026-01-25] docs: update documentation notes
+[2026-01-25] docs: add inline comments for clarity
