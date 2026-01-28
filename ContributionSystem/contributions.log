@@ -304,3 +304,4 @@
 [2026-01-25] style: improve code readability
 [2026-01-26] docs: add inline comments for clarity
 [2026-01-27] chore: update project metadata
+[2026-01-28] refactor: simplify logic flow
