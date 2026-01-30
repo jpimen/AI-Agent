@@ -3652,3 +3652,4 @@
 [2026-01-30] docs: expand usage instructions
 [2026-01-30] docs: update documentation notes
 [2026-01-30] style: improve code readability
+[2026-01-30] refactor: simplify logic flow
