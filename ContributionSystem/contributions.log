@@ -3686,3 +3686,4 @@
 [2026-02-01] refactor: clean up project structure
 [2026-02-01] refactor: modularize components
 [2026-02-01] style: improve code readability
+[2026-02-02] refactor: simplify logic flow
