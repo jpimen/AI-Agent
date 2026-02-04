@@ -3720,3 +3720,4 @@
 [2026-02-04] style: normalize whitespace and formatting
 [2026-02-04] fix: resolve minor formatting issues
 [2026-02-04] feat: enhance project setup scripts
+[2026-02-04] feat: add utility helper functions
