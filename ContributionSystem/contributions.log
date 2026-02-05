@@ -3727,3 +3727,4 @@
 [2026-02-05] fix: correct file references
 [2026-02-05] fix: patch edge case handling
 [2026-02-05] docs: update documentation notes
+[2026-02-05] feat: enhance project setup scripts
