@@ -3723,3 +3723,4 @@
 [2026-02-04] feat: add utility helper functions
 [2026-02-04] fix: patch edge case handling
 [2026-02-04] docs: revise README sections
+[2026-02-05] docs: add inline comments for clarity
