@@ -3741,3 +3741,4 @@
 [2026-02-06] chore: sync project dependencies
 [2026-02-06] feat: enhance project setup scripts
 [2026-02-06] fix: patch edge case handling
+[2026-02-06] feat: add utility helper functions
