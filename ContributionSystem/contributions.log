@@ -3768,3 +3768,4 @@
 [2026-02-07] fix: correct file references
 [2026-02-08] fix: resolve minor formatting issues
 [2026-02-08] chore: routine maintenance update
+[2026-02-08] feat: add utility helper functions
