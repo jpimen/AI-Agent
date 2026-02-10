@@ -3805,3 +3805,4 @@
 [2026-02-10] style: normalize whitespace and formatting
 [2026-02-10] feat: enhance project setup scripts
 [2026-02-10] fix: patch edge case handling
+[2026-02-10] fix: correct file references
