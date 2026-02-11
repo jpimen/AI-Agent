@@ -3811,3 +3811,4 @@
 [2026-02-11] docs: add inline comments for clarity
 [2026-02-11] style: improve code readability
 [2026-02-11] fix: patch edge case handling
+[2026-02-11] feat: add utility helper functions
