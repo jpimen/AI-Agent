@@ -3826,3 +3826,4 @@
 [2026-02-12] fix: patch edge case handling
 [2026-02-12] fix: correct file references
 [2026-02-12] fix: resolve minor formatting issues
+[2026-02-12] docs: add inline comments for clarity
