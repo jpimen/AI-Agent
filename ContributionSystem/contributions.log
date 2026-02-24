@@ -3971,3 +3971,4 @@
 [2026-02-23] docs: add inline comments for clarity
 [2026-02-24] feat: add utility helper functions
 [2026-02-24] style: improve code readability
+[2026-02-24] style: normalize whitespace and formatting
