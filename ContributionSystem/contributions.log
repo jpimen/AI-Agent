@@ -4052,3 +4052,4 @@
 [2026-03-02] docs: expand usage instructions
 [2026-03-02] chore: organize configuration files
 [2026-03-02] fix: correct file references
+[2026-03-02] feat: add utility helper functions
