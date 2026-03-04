@@ -6,8 +6,11 @@ import time
 
 # Configuration
 REPO_PATH = "C:\\Users\\pimen\\Documents\\gitActivate"
-MIN_COMMITS = 90
-MAX_COMMITS = 100
+# default commit range; set both to 10000 for ten‑thousand commits per run
+# be aware that creating 10k commits may take a while – the sleep delay
+# between commits can be adjusted or removed if desired.
+MIN_COMMITS = 290
+MAX_COMMITS = 300
 AUTO_PUSH = True  # Set to True for automatic push, False to ask
 
 # File to modify for commits
@@ -77,8 +80,13 @@ def make_commit():
         print(f"✗ Failed to create commit: {e}")
         return False
 
-def auto_commit():
-    """Main function to create multiple commits"""
+def auto_commit(forced_count=None):
+    """Main function to create multiple commits
+
+    If ``forced_count`` is provided, that many commits will be created
+    regardless of the configured min/max range. This allows invoking the
+    script with an explicit count (e.g. ``python auto_commit.py 500``).
+    """
     print("=" * 50)
     print("Auto Commit Script Started")
     print("=" * 50)
@@ -95,9 +103,13 @@ def auto_commit():
         print("Error: Not a git repository. Run 'git init' first.")
         return
     
-    # Generate random number of commits
-    num_commits = random.randint(MIN_COMMITS, MAX_COMMITS)
-    print(f"\nGenerating {num_commits} commits...")
+    # Determine number of commits to create
+    if forced_count is not None and isinstance(forced_count, int) and forced_count > 0:
+        num_commits = forced_count
+        print(f"\nForced to generate {num_commits} commits...")
+    else:
+        num_commits = random.randint(MIN_COMMITS, MAX_COMMITS)
+        print(f"\nGenerating {num_commits} commits...")
     print("-" * 50)
     
     success_count = 0
@@ -105,9 +117,10 @@ def auto_commit():
         if make_commit():
             success_count += 1
         
-        # Small delay between commits (optional)
+        # Small delay between commits (optional). For large counts this
+        # can be removed or reduced to speed up execution.
         if i < num_commits - 1:
-            time.sleep(0.5)
+            time.sleep(0.1)
     
     print("-" * 50)
     print(f"\nCompleted: {success_count}/{num_commits} commits created")
@@ -136,6 +149,15 @@ def auto_commit():
     print("=" * 50)
 
 if __name__ == "__main__":
-    auto_commit()
+    import sys
+
+    # allow user to pass desired commit count as first argument
+    commit_count = None
+    if len(sys.argv) > 1:
+        try:
+            commit_count = int(sys.argv[1])
+        except ValueError:
+            print(f"Warning: ignoring non-integer argument '{sys.argv[1]}'. Using default range.")
+    auto_commit(commit_count)
 
 #push and commit automatically
