@@ -4212,3 +4212,4 @@
 [2026-03-14] docs: revise README sections
 [2026-03-14] docs: add inline comments for clarity
 [2026-03-14] fix: resolve minor formatting issues
+[2026-03-14] feat: add utility helper functions
