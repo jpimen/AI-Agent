@@ -4353,3 +4353,4 @@
 [2026-03-25] docs: expand usage instructions
 [2026-03-25] chore: organize configuration files
 [2026-03-25] feat: add development notes
+[2026-03-25] fix: patch edge case handling
