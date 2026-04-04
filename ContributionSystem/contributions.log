@@ -4480,3 +4480,4 @@
 [2026-04-03] docs: update documentation notes
 [2026-04-04] chore: sync project dependencies
 [2026-04-04] refactor: simplify logic flow
+[2026-04-04] feat: add utility helper functions
