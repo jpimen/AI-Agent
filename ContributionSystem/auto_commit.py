@@ -9,8 +9,8 @@ REPO_PATH = "C:\\Users\\pimen\\Documents\\gitActivate"
 # default commit range; set both to 10000 for ten‑thousand commits per run
 # be aware that creating 10k commits may take a while – the sleep delay
 # between commits can be adjusted or removed if desired.
-MIN_COMMITS = 290
-MAX_COMMITS = 300
+MIN_COMMITS = 10
+MAX_COMMITS = 37
 AUTO_PUSH = True  # Set to True for automatic push, False to ask
 
 # File to modify for commits
