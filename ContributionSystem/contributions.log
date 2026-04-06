@@ -4507,3 +4507,4 @@
 [2026-04-06] style: improve code readability
 [2026-04-06] style: normalize whitespace and formatting
 [2026-04-06] fix: patch edge case handling
+[2026-04-06] chore: organize configuration files
