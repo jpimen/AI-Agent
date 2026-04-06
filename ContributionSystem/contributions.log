@@ -4509,3 +4509,4 @@
 [2026-04-06] fix: patch edge case handling
 [2026-04-06] chore: organize configuration files
 [2026-04-06] fix: correct file references
+[2026-04-06] docs: add inline comments for clarity
