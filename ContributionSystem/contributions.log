@@ -4583,3 +4583,4 @@
 [2026-04-11] fix: resolve minor formatting issues
 [2026-04-11] fix: patch edge case handling
 [2026-04-12] chore: sync project dependencies
+[2026-04-12] feat: add utility helper functions
