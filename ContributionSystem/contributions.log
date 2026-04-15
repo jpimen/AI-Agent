@@ -4618,3 +4618,4 @@
 [2026-04-15] style: normalize whitespace and formatting
 [2026-04-15] feat: improve automation workflow
 [2026-04-15] fix: patch edge case handling
+[2026-04-15] docs: add inline comments for clarity
