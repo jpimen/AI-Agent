@@ -322,3 +322,4 @@
 [2026-02-18] fix: resolve minor formatting issues
 [2026-02-21] feat: enhance project setup scripts
 [2026-04-08] docs: update documentation notes
+[2026-04-20] refactor: clean up project structure
