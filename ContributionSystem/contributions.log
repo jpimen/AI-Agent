@@ -4756,3 +4756,4 @@
 [2026-04-26] fix: correct file references
 [2026-04-26] fix: correct file references
 [2026-04-26] refactor: modularize components
+[2026-04-26] feat: add utility helper functions
