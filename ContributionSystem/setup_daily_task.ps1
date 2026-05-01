@@ -3,7 +3,7 @@
 
 $TaskName = "GitAutoCommit"
 $ScriptPath = "C:\Users\pimen\Documents\gitActivate\ContributionSystem\run_auto_commit.bat"
-$Time = "011:30PM"  # Change this to your preferred time
+$Time = "11:30PM"  # Change this to your preferred time
 
 # Check if task already exists
 $ExistingTask = Get-ScheduledTask -TaskName $TaskName -ErrorAction SilentlyContinue

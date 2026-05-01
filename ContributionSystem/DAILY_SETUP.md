@@ -11,7 +11,7 @@
 
 **Run this in PowerShell as Administrator:**
 ```powershell
-cd C:\dev\autogenerate\gitActivate\ContributionSystem
+cd C:\Users\pimen\Documents\gitActivate\ContributionSystem
 .\setup_daily_task.ps1
 ```
 
@@ -34,7 +34,7 @@ This will automatically create a scheduled task that runs every day at 9 AM.
 
 4. **Set Action:**
    - Choose "Start a program"
-   - Program/script: `C:\Users\pimen\Documents\run_auto_commit.bat`
+   - Program/script: `C:\Users\pimen\Documents\gitActivate\ContributionSystem\run_auto_commit.bat`
    - Click Next and Finish
 
 ## ⚙️ Configuration
@@ -52,8 +52,8 @@ AUTO_PUSH = True    # Automatic push (True/False)
 
 Run manually to test:
 ```powershell
-cd C:\Users\pimen\Documents
-python auto_commit.py
+cd C:\Users\pimen\Documents\gitActivate\ContributionSystem
+C:\Python313\python.exe auto_commit.py
 ```
 
 Or run the scheduled task immediately:
