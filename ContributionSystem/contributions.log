@@ -4943,3 +4943,4 @@
 [2026-05-12] chore: organize configuration files
 [2026-05-12] docs: revise README sections
 [2026-05-12] refactor: simplify logic flow
+[2026-05-12] fix: patch edge case handling
