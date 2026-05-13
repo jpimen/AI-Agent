@@ -4946,3 +4946,4 @@
 [2026-05-12] fix: patch edge case handling
 [2026-05-13] fix: resolve minor formatting issues
 [2026-05-13] style: normalize whitespace and formatting
+[2026-05-13] docs: expand usage instructions
