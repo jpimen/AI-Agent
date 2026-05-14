@@ -4961,3 +4961,4 @@
 [2026-05-14] style: normalize whitespace and formatting
 [2026-05-14] fix: patch edge case handling
 [2026-05-14] chore: update project metadata
+[2026-05-14] fix: correct file references
