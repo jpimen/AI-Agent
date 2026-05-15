@@ -4979,3 +4979,4 @@
 [2026-05-15] docs: update documentation notes
 [2026-05-15] style: normalize whitespace and formatting
 [2026-05-15] feat: add utility helper functions
+[2026-05-15] refactor: clean up project structure
