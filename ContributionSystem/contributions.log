@@ -4988,3 +4988,4 @@
 [2026-05-16] feat: add development notes
 [2026-05-16] feat: add utility helper functions
 [2026-05-16] fix: resolve minor formatting issues
+[2026-05-16] refactor: clean up project structure
