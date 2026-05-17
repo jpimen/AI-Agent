@@ -5005,3 +5005,4 @@
 [2026-05-17] docs: update documentation notes
 [2026-05-17] fix: patch edge case handling
 [2026-05-17] chore: organize configuration files
+[2026-05-17] feat: add utility helper functions
