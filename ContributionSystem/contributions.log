@@ -5065,3 +5065,4 @@
 [2026-05-22] chore: update project metadata
 [2026-05-22] docs: revise README sections
 [2026-05-22] style: normalize whitespace and formatting
+[2026-05-22] refactor: simplify logic flow
