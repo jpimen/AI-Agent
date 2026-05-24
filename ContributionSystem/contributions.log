@@ -5088,3 +5088,4 @@
 [2026-05-24] docs: revise README sections
 [2026-05-24] fix: resolve minor formatting issues
 [2026-05-24] fix: patch edge case handling
+[2026-05-24] style: improve code readability
