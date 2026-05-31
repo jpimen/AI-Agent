@@ -5175,3 +5175,4 @@
 [2026-05-31] docs: update documentation notes
 [2026-05-31] fix: correct file references
 [2026-05-31] fix: correct file references
+[2026-05-31] fix: patch edge case handling
