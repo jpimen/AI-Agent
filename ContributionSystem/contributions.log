@@ -5204,3 +5204,4 @@
 [2026-06-02] docs: revise README sections
 [2026-06-02] fix: resolve minor formatting issues
 [2026-06-03] feat: add development notes
+[2026-06-03] refactor: simplify logic flow
