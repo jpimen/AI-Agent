@@ -5304,3 +5304,4 @@
 [2026-06-11] chore: sync project dependencies
 [2026-06-11] feat: add development notes
 [2026-06-11] fix: patch edge case handling
+[2026-06-11] feat: enhance project setup scripts
