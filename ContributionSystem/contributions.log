@@ -5324,3 +5324,4 @@
 [2026-06-12] chore: update project metadata
 [2026-06-12] refactor: simplify logic flow
 [2026-06-13] docs: revise README sections
+[2026-06-13] feat: add utility helper functions
