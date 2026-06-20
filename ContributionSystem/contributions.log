@@ -5420,3 +5420,4 @@
 [2026-06-20] style: normalize whitespace and formatting
 [2026-06-20] feat: add development notes
 [2026-06-20] fix: correct file references
+[2026-06-20] fix: patch edge case handling
