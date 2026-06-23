@@ -5457,3 +5457,4 @@
 [2026-06-23] refactor: clean up project structure
 [2026-06-23] feat: add utility helper functions
 [2026-06-23] chore: sync project dependencies
+[2026-06-23] fix: correct file references
