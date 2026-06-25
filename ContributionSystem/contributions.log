@@ -5486,3 +5486,4 @@
 [2026-06-25] chore: sync project dependencies
 [2026-06-25] chore: organize configuration files
 [2026-06-25] fix: patch edge case handling
+[2026-06-25] style: normalize whitespace and formatting
