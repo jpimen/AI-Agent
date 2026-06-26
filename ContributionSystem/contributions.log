@@ -5495,3 +5495,4 @@
 [2026-06-26] fix: resolve minor formatting issues
 [2026-06-26] docs: add inline comments for clarity
 [2026-06-26] docs: revise README sections
+[2026-06-26] feat: add utility helper functions
