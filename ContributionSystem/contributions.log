@@ -5514,3 +5514,4 @@
 [2026-06-27] chore: sync project dependencies
 [2026-06-27] fix: patch edge case handling
 [2026-06-27] feat: add utility helper functions
+[2026-06-27] feat: enhance project setup scripts
