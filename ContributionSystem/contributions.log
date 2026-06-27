@@ -5512,3 +5512,4 @@
 [2026-06-27] docs: update documentation notes
 [2026-06-27] chore: update project metadata
 [2026-06-27] chore: sync project dependencies
+[2026-06-27] fix: patch edge case handling
