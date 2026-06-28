@@ -5531,3 +5531,4 @@
 [2026-06-28] fix: patch edge case handling
 [2026-06-28] feat: enhance project setup scripts
 [2026-06-28] style: improve code readability
+[2026-06-28] feat: add utility helper functions
