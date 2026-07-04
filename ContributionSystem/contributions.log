@@ -5607,3 +5607,4 @@
 [2026-07-04] docs: add inline comments for clarity
 [2026-07-04] style: normalize whitespace and formatting
 [2026-07-04] refactor: simplify logic flow
+[2026-07-04] style: improve code readability
