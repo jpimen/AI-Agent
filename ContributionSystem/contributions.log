@@ -5633,3 +5633,4 @@
 [2026-07-06] refactor: modularize components
 [2026-07-06] feat: add development notes
 [2026-07-06] style: normalize whitespace and formatting
+[2026-07-06] refactor: simplify logic flow
