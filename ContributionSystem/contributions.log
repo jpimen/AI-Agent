@@ -5650,3 +5650,4 @@
 [2026-07-07] docs: revise README sections
 [2026-07-08] docs: expand usage instructions
 [2026-07-08] refactor: modularize components
+[2026-07-08] refactor: clean up project structure
