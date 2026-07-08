@@ -5649,3 +5649,4 @@
 [2026-07-07] chore: sync project dependencies
 [2026-07-07] docs: revise README sections
 [2026-07-08] docs: expand usage instructions
+[2026-07-08] refactor: modularize components
