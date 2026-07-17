@@ -5754,3 +5754,4 @@
 [2026-07-17] docs: expand usage instructions
 [2026-07-17] fix: resolve minor formatting issues
 [2026-07-17] feat: enhance project setup scripts
+[2026-07-17] fix: patch edge case handling
