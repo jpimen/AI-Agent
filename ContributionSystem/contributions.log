@@ -5790,3 +5790,4 @@
 [2026-07-19] style: normalize whitespace and formatting
 [2026-07-20] fix: patch edge case handling
 [2026-07-20] refactor: modularize components
+[2026-07-20] docs: expand usage instructions
