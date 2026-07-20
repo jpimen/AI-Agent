@@ -5788,3 +5788,4 @@
 [2026-07-19] docs: update documentation notes
 [2026-07-19] docs: revise README sections
 [2026-07-19] style: normalize whitespace and formatting
+[2026-07-20] fix: patch edge case handling
