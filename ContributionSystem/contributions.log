@@ -5820,3 +5820,4 @@
 [2026-07-22] docs: add inline comments for clarity
 [2026-07-22] style: improve code readability
 [2026-07-22] feat: improve automation workflow
+[2026-07-22] refactor: simplify logic flow
