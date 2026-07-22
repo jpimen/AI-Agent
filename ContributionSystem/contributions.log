@@ -5813,3 +5813,4 @@
 [2026-07-21] style: improve code readability
 [2026-07-21] fix: resolve minor formatting issues
 [2026-07-21] feat: add utility helper functions
+[2026-07-22] docs: add inline comments for clarity
