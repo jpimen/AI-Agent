@@ -5833,3 +5833,4 @@
 [2026-07-23] docs: revise README sections
 [2026-07-23] refactor: simplify logic flow
 [2026-07-23] chore: sync project dependencies
+[2026-07-23] feat: add utility helper functions
