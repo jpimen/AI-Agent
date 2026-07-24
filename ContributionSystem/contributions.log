@@ -5837,3 +5837,4 @@
 [2026-07-23] fix: patch edge case handling
 [2026-07-24] docs: add inline comments for clarity
 [2026-07-24] docs: update documentation notes
+[2026-07-24] feat: add utility helper functions
