@@ -5846,3 +5846,4 @@
 [2026-07-24] style: normalize whitespace and formatting
 [2026-07-24] refactor: modularize components
 [2026-07-24] fix: correct file references
+[2026-07-24] docs: add inline comments for clarity
