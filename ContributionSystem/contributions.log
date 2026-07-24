@@ -5845,3 +5845,4 @@
 [2026-07-24] refactor: simplify logic flow
 [2026-07-24] style: normalize whitespace and formatting
 [2026-07-24] refactor: modularize components
+[2026-07-24] fix: correct file references
