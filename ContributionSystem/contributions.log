@@ -5851,3 +5851,4 @@
 [2026-07-24] refactor: modularize components
 [2026-07-25] style: normalize whitespace and formatting
 [2026-07-25] feat: improve automation workflow
+[2026-07-25] refactor: clean up project structure
