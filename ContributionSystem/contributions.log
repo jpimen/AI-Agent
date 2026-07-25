@@ -5849,3 +5849,4 @@
 [2026-07-24] docs: add inline comments for clarity
 [2026-07-24] chore: sync project dependencies
 [2026-07-24] refactor: modularize components
+[2026-07-25] style: normalize whitespace and formatting
