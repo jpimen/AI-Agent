@@ -5866,3 +5866,4 @@
 [2026-07-26] fix: correct file references
 [2026-07-26] style: normalize whitespace and formatting
 [2026-07-26] docs: add inline comments for clarity
+[2026-07-26] chore: organize configuration files
