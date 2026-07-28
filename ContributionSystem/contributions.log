@@ -5894,3 +5894,4 @@
 [2026-07-28] fix: patch edge case handling
 [2026-07-28] style: improve code readability
 [2026-07-28] docs: revise README sections
+[2026-07-28] fix: correct file references
