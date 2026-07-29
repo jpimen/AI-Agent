@@ -5898,3 +5898,4 @@
 [2026-07-28] chore: organize configuration files
 [2026-07-28] refactor: modularize components
 [2026-07-29] fix: patch edge case handling
+[2026-07-29] fix: correct file references
