@@ -5936,3 +5936,4 @@
 [2026-08-01] feat: improve automation workflow
 [2026-08-01] refactor: simplify logic flow
 [2026-08-01] docs: revise README sections
+[2026-08-01] fix: patch edge case handling
