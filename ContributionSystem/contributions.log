@@ -5951,3 +5951,4 @@
 [2026-08-02] docs: add inline comments for clarity
 [2026-08-02] refactor: clean up project structure
 [2026-08-02] chore: sync project dependencies
+[2026-08-02] refactor: simplify logic flow
