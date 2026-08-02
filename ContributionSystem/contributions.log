@@ -5949,3 +5949,4 @@
 [2026-08-01] feat: add utility helper functions
 [2026-08-02] refactor: modularize components
 [2026-08-02] docs: add inline comments for clarity
+[2026-08-02] refactor: clean up project structure
