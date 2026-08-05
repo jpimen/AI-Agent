@@ -5987,3 +5987,4 @@
 [2026-08-04] chore: update project metadata
 [2026-08-05] chore: sync project dependencies
 [2026-08-05] style: improve code readability
+[2026-08-05] feat: add utility helper functions
