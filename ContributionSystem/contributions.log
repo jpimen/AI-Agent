@@ -6159,3 +6159,4 @@
 [2026-08-18] refactor: clean up project structure
 [2026-08-18] chore: sync project dependencies
 [2026-08-19] fix: correct file references
+[2026-08-19] docs: add inline comments for clarity
