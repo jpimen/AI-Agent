@@ -6192,3 +6192,4 @@
 [2026-08-21] refactor: modularize components
 [2026-08-21] docs: revise README sections
 [2026-08-21] chore: sync project dependencies
+[2026-08-21] refactor: simplify logic flow
