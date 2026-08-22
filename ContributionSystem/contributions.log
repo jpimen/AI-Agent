@@ -6205,3 +6205,4 @@
 [2026-08-22] fix: patch edge case handling
 [2026-08-22] chore: organize configuration files
 [2026-08-22] docs: update documentation notes
+[2026-08-22] refactor: clean up project structure
