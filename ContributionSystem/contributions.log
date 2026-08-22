@@ -6203,3 +6203,4 @@
 [2026-08-22] fix: correct file references
 [2026-08-22] feat: add development notes
 [2026-08-22] fix: patch edge case handling
+[2026-08-22] chore: organize configuration files
