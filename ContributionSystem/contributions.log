@@ -6216,3 +6216,4 @@
 [2026-08-23] feat: add utility helper functions
 [2026-08-23] fix: correct file references
 [2026-08-23] style: normalize whitespace and formatting
+[2026-08-23] refactor: clean up project structure
