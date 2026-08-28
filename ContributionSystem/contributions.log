@@ -6269,3 +6269,4 @@
 [2026-08-28] style: improve code readability
 [2026-08-28] feat: add development notes
 [2026-08-28] fix: correct file references
+[2026-08-28] refactor: clean up project structure
