@@ -6317,3 +6317,4 @@
 [2026-09-01] refactor: simplify logic flow
 [2026-09-01] docs: expand usage instructions
 [2026-09-01] style: improve code readability
+[2026-09-01] fix: patch edge case handling
