@@ -6352,3 +6352,4 @@
 [2026-09-03] feat: add utility helper functions
 [2026-09-03] chore: organize configuration files
 [2026-09-04] style: normalize whitespace and formatting
+[2026-09-04] fix: correct file references
