@@ -6447,3 +6447,4 @@
 [2026-09-11] docs: add inline comments for clarity
 [2026-09-11] refactor: modularize components
 [2026-09-12] refactor: clean up project structure
+[2026-09-12] refactor: simplify logic flow
