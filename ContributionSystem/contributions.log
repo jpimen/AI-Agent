@@ -6500,3 +6500,4 @@
 [2026-09-16] docs: expand usage instructions
 [2026-09-16] feat: improve automation workflow
 [2026-09-16] feat: add utility helper functions
+[2026-09-16] refactor: clean up project structure
