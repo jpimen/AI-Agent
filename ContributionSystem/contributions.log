@@ -6537,3 +6537,4 @@
 [2026-09-19] fix: patch edge case handling
 [2026-09-19] chore: organize configuration files
 [2026-09-19] docs: revise README sections
+[2026-09-19] docs: add inline comments for clarity
