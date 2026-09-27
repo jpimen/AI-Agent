@@ -6641,3 +6641,4 @@
 [2026-09-27] style: improve code readability
 [2026-09-27] style: normalize whitespace and formatting
 [2026-09-27] fix: resolve minor formatting issues
+[2026-09-27] feat: add utility helper functions
