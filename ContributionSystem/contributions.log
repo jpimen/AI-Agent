@@ -6746,3 +6746,4 @@
 [2026-10-06] style: improve code readability
 [2026-10-06] chore: update project metadata
 [2026-10-06] docs: expand usage instructions
+[2026-10-06] fix: patch edge case handling
