@@ -6786,3 +6786,4 @@
 [2026-10-09] style: normalize whitespace and formatting
 [2026-10-09] docs: expand usage instructions
 [2026-10-09] fix: patch edge case handling
+[2026-10-09] feat: enhance project setup scripts
