@@ -6877,3 +6877,4 @@
 [2026-10-16] docs: revise README sections
 [2026-10-16] style: normalize whitespace and formatting
 [2026-10-16] docs: add inline comments for clarity
+[2026-10-16] feat: add utility helper functions
